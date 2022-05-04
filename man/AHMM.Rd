@@ -2,7 +2,7 @@
 % Please edit documentation in R/AHMM.R
 \name{AHMM}
 \alias{AHMM}
-\title{Treatment effect estimation for AHMM with 2-level clustering (with covariates)}
+\title{Treatment effect estimation for AHMM with 2-level clustering}
 \usage{
 AHMM(
   formula,
