@@ -9,5 +9,7 @@ Installation instructions (requires devtools package)
 To instal locally, run the following code in your R implementation:
 
 require(devtools)
+
 devtools::install_github("Ondrej-Blaha/AHMM")
+
 require(AHMM)
